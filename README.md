@@ -1,4 +1,4 @@
-# 8-quuen-problem-using-Hill-Climbing
+# 8-queen-problem-using-Hill-Climbing
 AI project
 
  	Project Title: 
